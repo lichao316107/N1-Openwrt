@@ -201,7 +201,7 @@ jobs:
         tag: openwrt_armvirt_v8_${{ env.PACKAGED_OUTPUTDATE }}
         artifacts: ${{ env.PACKAGED_OUTPUTPATH }}/*
         allowUpdates: true
-        token: ${{ secrets.GH_TOKEN }}
+        token: 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
         body: |
           This is OpenWrt firmware for Armvirt 64
           * Firmware information
