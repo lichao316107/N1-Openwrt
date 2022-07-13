@@ -205,7 +205,7 @@ jobs:
         body: |
           This is OpenWrt firmware for Armvirt 64
           * Firmware information
-          Default IP: 192.168.5.100
+          Default IP: 192.168.1.1
           Default username: root
           Default password: password
   over:
